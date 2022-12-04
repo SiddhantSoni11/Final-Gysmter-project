@@ -1,0 +1,53 @@
+
+<div class="Slider">
+
+  <app-sliding-component></app-sliding-component>
+    </div>
+
+
+
+<div class="container my-5">
+  <h1 class="mb-3">TrainersList</h1>
+
+
+
+
+
+  <table class="table table-striped " *ngIf="Trainerslist && Trainerslist.length >0" >
+      <thead>
+          <!-- <th>Id</th> -->
+          <th>FirstName</th>
+          <th>LastName</th>
+          <th>Email</th>
+          <th>Address</th>
+          <th>Mobile</th>
+          <th>City</th>
+          <th>Experience</th>
+          <!-- <th>Details</th> -->
+          <!-- <th></th> -->
+      </thead>
+      <tbody>
+          <tr *ngFor="let trainers of Trainerslist">
+              <!-- <td>{{Trainers.id}}</td> -->
+              <td>{{trainers.firstName}}</td>
+              <td>{{trainers.lastName}}</td>
+              <td>{{trainers.email}}</td>
+              <td>{{trainers.address}}</td>
+              <td>{{trainers.mobile}}</td>
+              <td>{{trainers.city}}</td>
+              <td>{{trainers.experience}}</td>
+              <!-- <td>{{Trainers.details}}</td> -->
+              <td><button type="button" class="btn btn " ><a [routerLink]="['/TrainersList','edit', trainers.Id]" style="color:rgb(255, 255, 255);text-decoration:none" class="fa fa-facebook-f"></a></button></td>
+              <td><button type="button" class="btn btn-"><a [routerLink]="['/TrainersList','details',trainers.Id]"  style="color:white;text-decoration:none" class="fa fa-instagram"></a></button></td>
+              <td><button  type="button" class="btn btn-"><a [routerLink]="['/TrainersList','details',trainers.Id]"  style="color:white;text-decoration:none"  >pic</a></button></td>
+          </tr>
+
+      </tbody>
+  </table>
+  <p *ngIf="!Trainerslist || Trainerslist.length <=0"> No Trainers added</p>
+</div>
+
+
+
+
+

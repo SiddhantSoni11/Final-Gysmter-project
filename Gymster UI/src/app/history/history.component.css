@@ -1,0 +1,55 @@
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+
+.bg{
+  background-color: black;
+  color: aliceblue;
+}
+
+
+.container{
+  color: rgb(255, 255, 255);
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/black/black-contour-f41038db.svg);
+}
+
+
+.small{
+  color: black;
+}
+
+.social{
+  color: aliceblue;
+}
+
+
+.btn{
+  color: rgb(0, 0, 0);
+  background-color: azure;
+
+  text-align: center;
+  /* box-shadow: 4px 4px 4px rgb(255, 230, 2), 4px 4px 4px rgb(255, 230, 0);
+   */
+
+  border-width: 2px;
+  box-shadow: #fdb801;
+  border-color: #fdb801;
+
+}

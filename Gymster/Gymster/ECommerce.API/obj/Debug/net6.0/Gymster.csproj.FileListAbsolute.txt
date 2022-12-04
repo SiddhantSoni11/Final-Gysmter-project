@@ -1,0 +1,92 @@
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.exe
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.deps.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.runtimeconfig.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.pdb
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.AssemblyReference.cache
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.AssemblyInfoInputs.cache
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.AssemblyInfo.cs
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.Gymster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Gymster.props
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gymster.props
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gymster.props
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\Gymster.styles.css
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.CopyComplete
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\refint\Gymster.dll
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.pdb
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.genruntimeconfig.cache
+C:\Users\ARYA\Desktop\Gymster Project\Gymster-master\final-Gym-main\final-Gym-main\22-09-25 ECommerce-20221123T090719Z-001\22-09-25 ECommerce\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\ref\Gymster.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.exe
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.deps.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.runtimeconfig.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Gymster.pdb
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.AssemblyReference.cache
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.AssemblyInfoInputs.cache
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.AssemblyInfo.cs
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.CoreCompileInputs.cache
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.Gymster.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Gymster.props
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gymster.props
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gymster.props
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\scopedcss\bundle\Gymster.styles.css
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.csproj.CopyComplete
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\refint\Gymster.dll
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.pdb
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\Gymster.genruntimeconfig.cache
+C:\Users\ARYA\Desktop\Original Gymster\Gymster\Gymster\ECommerce.API\obj\Debug\net6.0\ref\Gymster.dll

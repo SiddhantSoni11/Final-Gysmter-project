@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 4px 8px 8px 4px palegoldenrod;
+  margin: 8px;
+
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #000000e5;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+  /* box-shadow: 0 15px 30px 1px rgb(255, 255, 255); */
+  box-shadow: 0 15px 30px 1px palegoldenrod;
+	background: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: auto;
+  box-sizing: border-box;
+  border-radius: 4px;
+
+
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>SEE WHAT OUR CUSTOMERS SAY</h1>
+
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img class="IMG" src="https://m.media-amazon.com/images/I/61hCtK+QJqL._SL1200_.jpg">
+      <div class="container">
+        <h2>Shubham</h2>
+        <!-- <p class="title">Customer</p> -->
+        <p>Excellent gym with passionate fitness trainers helping members reach their fitness goals.Thanks to the Gymster team for the goodwill gesture and for creating a fun workout environment. Loving all the new equipment. Happy to have you open and enjoying the experience. Thanks Team Gymster</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img class="IMG" src="https://wallpapercave.com/wp/wp7578910.jpg">
+      <div class="container">
+        <h2>Siddhant</h2>
+        <!-- <p class="title">Customer</p> -->
+        <p>This gym has just what i need. I tend to work out in the morning. When it's not crowded. So i never had to wait for equipment. Additionally, i found the right trainer. Who helped me to reach my fitness goal</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img class="IMG" src="https://m.media-amazon.com/images/I/61hCtK+QJqL._SL1200_.jpg" alt="Rohith" style="width:100%">
+      <div class="container">
+        <h2>Rohith</h2>
+        <!-- <p class="title">Customer</p> -->
+        <p>Excellent gym with passionate fitness trainers helping members reach their fitness goals. I haven’t joined their classes yet but from what I have seen, the classes are good for anyone who enjoys training in groups. Also their management staff are friendly and always smiling 😊</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
